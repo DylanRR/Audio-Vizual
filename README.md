@@ -1,6 +1,6 @@
 # Audio-Vizual
 
-REF and Inspiration From 
+REF and Inspiration From                                                                                                                   
 Michael Pinn - http://www.openprocessing.org/sketch/157286                                                                                 
 Oggy - http://www.openprocessing.org/sketch/207474                                                                                         
 Lu YU - http://www.openprocessing.org/sketch/21430                                                                                         
