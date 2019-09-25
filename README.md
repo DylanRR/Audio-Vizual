@@ -7,9 +7,9 @@ Lu YU - http://www.openprocessing.org/sketch/21430
 Teekayeh                                                                                                                                   
 
 Music Visualizer Program                                                                                                                   
-  Hotkeys:                                                                                                                                 
+  <b>Hotkeys:</b>                                                                                                                         
     Fastfoward: '>'                                                                                                                       
     Rewind:     '<'                                                                                                                       
     Pause:      'SPACE'                                                                                                                   
                                                                                                                                            
-Note: To use your own song replace the current .mp3 file with your own make sure to rename your new song "song.mp3"
+<b>Note:</b> To use your own song replace the current .mp3 file with your own make sure to rename your new song "song.mp3"
